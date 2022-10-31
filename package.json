@@ -1,0 +1,24 @@
+{
+  "name": "sc2bot",
+  "version": "0.0.1",
+  "description": "Star Craft 2 bot made with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/villematti/sc2bot.git"
+  },
+  "keywords": [
+    "starcraft2",
+    "bot",
+    "ai"
+  ],
+  "author": "Ville-Matti Hakanpää <villematti@villematti.info>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villematti/sc2bot/issues"
+  },
+  "homepage": "https://github.com/villematti/sc2bot#readme"
+}
