@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/villematti/sc2bot/issues"
   },
-  "homepage": "https://github.com/villematti/sc2bot#readme"
+  "homepage": "https://github.com/villematti/sc2bot#readme",
+  "dependencies": {
+    "@node-sc2/core": "^0.9.0-beta.1"
+  }
 }
